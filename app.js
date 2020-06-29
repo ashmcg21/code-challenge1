@@ -18,9 +18,10 @@ function Box(){
 }
 
 function makeBoxYellow(){
-    clickcount++
+    clickcount ++;
     $('.js_container').append(`
-        <div class "Box yellow"
+        <div class="yellow">
     <p>${clickcount}</p>
-    </div>`)
+    </div>
+    `)
 }
