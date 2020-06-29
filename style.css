@@ -1,0 +1,11 @@
+.Box{
+    width: 100px;
+    height: 100px;
+    margin: 0 5xp;
+    display: inline-block;
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
